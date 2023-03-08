@@ -4,5 +4,5 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 marshmallow==2.19.5
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 psycopg2==2.8.3
